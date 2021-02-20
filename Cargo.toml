@@ -1,7 +1,8 @@
 [package]
-name = "MailRoom"
+name = "mail_room"
 version = "0.1.0"
 authors = ["Nate Geyer"]
 edition = "2018"
 
 [dependencies]
+notify = "4.0.12"
